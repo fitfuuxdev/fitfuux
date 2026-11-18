@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-labelledby="ff-title">
+  <title id="ff-title">FITFUUX</title>
+  <rect x="1" y="1" width="46" height="46" rx="13" fill="#0C0C0B"/>
+  <rect x="1.75" y="1.75" width="44.5" height="44.5" rx="12.25" fill="none" stroke="#F4F1EA" stroke-opacity=".28"/>
+  <path d="M13.5 14.5h20M13.5 14.5v19M13.5 23h12" fill="none" stroke="#F4F1EA" stroke-width="5" stroke-linecap="square"/>
+  <path d="M34 14.5 25.5 33.5" fill="none" stroke="#5B64FF" stroke-width="4" stroke-linecap="square"/>
+</svg>

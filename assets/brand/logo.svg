@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 48" role="img" aria-labelledby="ff-title">
+  <title id="ff-title">FITFUUX — web atelier</title>
+  <g transform="translate(0 4)">
+    <rect x="1" y="1" width="38" height="38" rx="11" fill="#0C0C0B"/>
+    <rect x="1.75" y="1.75" width="36.5" height="36.5" rx="10.25" fill="none" stroke="#F4F1EA" stroke-opacity=".3"/>
+    <path d="M11.5 12.5h16M11.5 12.5v16M11.5 20h10" fill="none" stroke="#F4F1EA" stroke-width="4" stroke-linecap="square"/>
+    <path d="M28 12.5 21 28.5" fill="none" stroke="#5B64FF" stroke-width="3.2" stroke-linecap="square"/>
+  </g>
+  <text x="54" y="31" fill="#0C0C0B" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" letter-spacing="3">FITFUUX</text>
+  <text x="54" y="41" fill="#0C0C0B" font-family="Arial, Helvetica, sans-serif" font-size="6.7" font-weight="400" letter-spacing="2.2" opacity=".62">WEB ATELIER</text>
+</svg>

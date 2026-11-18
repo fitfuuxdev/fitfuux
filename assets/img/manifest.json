@@ -1,0 +1,1022 @@
+{
+  "studio-hero": {
+    "slug": "studio-hero",
+    "width": 1024,
+    "height": 640,
+    "variants": [
+      {
+        "width": 480,
+        "height": 300,
+        "file": "studio-hero-480.webp",
+        "bytes": 11448
+      },
+      {
+        "width": 800,
+        "height": 500,
+        "file": "studio-hero-800.webp",
+        "bytes": 23090
+      },
+      {
+        "width": 1024,
+        "height": 640,
+        "file": "studio-hero-1024.webp",
+        "bytes": 37176
+      }
+    ],
+    "bytes": 141655
+  },
+  "studio-hero-mobile": {
+    "slug": "studio-hero-mobile",
+    "width": 819,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "height": 600,
+        "file": "studio-hero-mobile-480.webp",
+        "bytes": 16454
+      },
+      {
+        "width": 800,
+        "height": 1000,
+        "file": "studio-hero-mobile-800.webp",
+        "bytes": 37946
+      },
+      {
+        "width": 819,
+        "height": 1024,
+        "file": "studio-hero-mobile-819.webp",
+        "bytes": 43764
+      }
+    ],
+    "bytes": 179727
+  },
+  "studio-work": {
+    "slug": "studio-work",
+    "width": 1024,
+    "height": 768,
+    "variants": [
+      {
+        "width": 480,
+        "height": 360,
+        "file": "studio-work-480.webp",
+        "bytes": 10326
+      },
+      {
+        "width": 800,
+        "height": 600,
+        "file": "studio-work-800.webp",
+        "bytes": 21450
+      },
+      {
+        "width": 1024,
+        "height": 768,
+        "file": "studio-work-1024.webp",
+        "bytes": 38670
+      }
+    ],
+    "bytes": 156574
+  },
+  "studio-process": {
+    "slug": "studio-process",
+    "width": 1024,
+    "height": 704,
+    "variants": [
+      {
+        "width": 480,
+        "height": 330,
+        "file": "studio-process-480.webp",
+        "bytes": 14276
+      },
+      {
+        "width": 800,
+        "height": 550,
+        "file": "studio-process-800.webp",
+        "bytes": 28834
+      },
+      {
+        "width": 1024,
+        "height": 704,
+        "file": "studio-process-1024.webp",
+        "bytes": 48236
+      }
+    ],
+    "bytes": 164450
+  },
+  "studio-detail": {
+    "slug": "studio-detail",
+    "width": 900,
+    "height": 900,
+    "variants": [
+      {
+        "width": 480,
+        "height": 480,
+        "file": "studio-detail-480.webp",
+        "bytes": 20078
+      },
+      {
+        "width": 800,
+        "height": 800,
+        "file": "studio-detail-800.webp",
+        "bytes": 41478
+      },
+      {
+        "width": 900,
+        "height": 900,
+        "file": "studio-detail-900.webp",
+        "bytes": 52914
+      }
+    ],
+    "bytes": 188310
+  },
+  "abstract-ember": {
+    "slug": "abstract-ember",
+    "width": 1024,
+    "height": 640,
+    "variants": [
+      {
+        "width": 480,
+        "height": 300,
+        "file": "abstract-ember-480.webp",
+        "bytes": 17346
+      },
+      {
+        "width": 800,
+        "height": 500,
+        "file": "abstract-ember-800.webp",
+        "bytes": 36774
+      },
+      {
+        "width": 1024,
+        "height": 640,
+        "file": "abstract-ember-1024.webp",
+        "bytes": 56178
+      }
+    ],
+    "bytes": 158812
+  },
+  "abstract-veil": {
+    "slug": "abstract-veil",
+    "width": 1024,
+    "height": 640,
+    "variants": [
+      {
+        "width": 480,
+        "height": 300,
+        "file": "abstract-veil-480.webp",
+        "bytes": 3340
+      },
+      {
+        "width": 800,
+        "height": 500,
+        "file": "abstract-veil-800.webp",
+        "bytes": 7856
+      },
+      {
+        "width": 1024,
+        "height": 640,
+        "file": "abstract-veil-1024.webp",
+        "bytes": 16410
+      }
+    ],
+    "bytes": 115763
+  },
+  "brand-cube": {
+    "slug": "brand-cube",
+    "width": 1000,
+    "height": 1000,
+    "variants": [
+      {
+        "width": 480,
+        "height": 480,
+        "file": "brand-cube-480.webp",
+        "bytes": 4834
+      },
+      {
+        "width": 800,
+        "height": 800,
+        "file": "brand-cube-800.webp",
+        "bytes": 11764
+      },
+      {
+        "width": 1000,
+        "height": 1000,
+        "file": "brand-cube-1000.webp",
+        "bytes": 25718
+      }
+    ],
+    "bytes": 180011
+  },
+  "studio-code": {
+    "slug": "studio-code",
+    "width": 1024,
+    "height": 704,
+    "variants": [
+      {
+        "width": 480,
+        "height": 330,
+        "file": "studio-code-480.webp",
+        "bytes": 8126
+      },
+      {
+        "width": 800,
+        "height": 550,
+        "file": "studio-code-800.webp",
+        "bytes": 17052
+      },
+      {
+        "width": 1024,
+        "height": 704,
+        "file": "studio-code-1024.webp",
+        "bytes": 31786
+      }
+    ],
+    "bytes": 135899
+  },
+  "moka-hero": {
+    "slug": "moka-hero",
+    "width": 819,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "height": 600,
+        "file": "moka-hero-480.webp",
+        "bytes": 18910
+      },
+      {
+        "width": 800,
+        "height": 1000,
+        "file": "moka-hero-800.webp",
+        "bytes": 42774
+      },
+      {
+        "width": 819,
+        "height": 1024,
+        "file": "moka-hero-819.webp",
+        "bytes": 50814
+      }
+    ],
+    "bytes": 180330
+  },
+  "moka-pour": {
+    "slug": "moka-pour",
+    "width": 900,
+    "height": 900,
+    "variants": [
+      {
+        "width": 480,
+        "height": 480,
+        "file": "moka-pour-480.webp",
+        "bytes": 17430
+      },
+      {
+        "width": 800,
+        "height": 800,
+        "file": "moka-pour-800.webp",
+        "bytes": 37456
+      },
+      {
+        "width": 900,
+        "height": 900,
+        "file": "moka-pour-900.webp",
+        "bytes": 48616
+      }
+    ],
+    "bytes": 177876
+  },
+  "moka-cup": {
+    "slug": "moka-cup",
+    "width": 900,
+    "height": 675,
+    "variants": [
+      {
+        "width": 480,
+        "height": 360,
+        "file": "moka-cup-480.webp",
+        "bytes": 14074
+      },
+      {
+        "width": 800,
+        "height": 600,
+        "file": "moka-cup-800.webp",
+        "bytes": 29112
+      },
+      {
+        "width": 900,
+        "height": 675,
+        "file": "moka-cup-900.webp",
+        "bytes": 38328
+      }
+    ],
+    "bytes": 133369
+  },
+  "moka-vibe": {
+    "slug": "moka-vibe",
+    "width": 1024,
+    "height": 640,
+    "variants": [
+      {
+        "width": 480,
+        "height": 300,
+        "file": "moka-vibe-480.webp",
+        "bytes": 6706
+      },
+      {
+        "width": 800,
+        "height": 500,
+        "file": "moka-vibe-800.webp",
+        "bytes": 14094
+      },
+      {
+        "width": 1024,
+        "height": 640,
+        "file": "moka-vibe-1024.webp",
+        "bytes": 25240
+      }
+    ],
+    "bytes": 125411
+  },
+  "tyaga-hero": {
+    "slug": "tyaga-hero",
+    "width": 1024,
+    "height": 640,
+    "variants": [
+      {
+        "width": 480,
+        "height": 300,
+        "file": "tyaga-hero-480.webp",
+        "bytes": 11870
+      },
+      {
+        "width": 800,
+        "height": 500,
+        "file": "tyaga-hero-800.webp",
+        "bytes": 24524
+      },
+      {
+        "width": 1024,
+        "height": 640,
+        "file": "tyaga-hero-1024.webp",
+        "bytes": 39980
+      }
+    ],
+    "bytes": 147036
+  },
+  "tyaga-gym": {
+    "slug": "tyaga-gym",
+    "width": 1600,
+    "height": 1000,
+    "variants": [
+      {
+        "width": 480,
+        "height": 300,
+        "file": "tyaga-gym-480.webp",
+        "bytes": 7212
+      },
+      {
+        "width": 800,
+        "height": 500,
+        "file": "tyaga-gym-800.webp",
+        "bytes": 14362
+      },
+      {
+        "width": 1200,
+        "height": 750,
+        "file": "tyaga-gym-1200.webp",
+        "bytes": 27996
+      },
+      {
+        "width": 1600,
+        "height": 1000,
+        "file": "tyaga-gym-1600.webp",
+        "bytes": 73250
+      }
+    ],
+    "bytes": 329834
+  },
+  "tyaga-athlete-1": {
+    "slug": "tyaga-athlete-1",
+    "width": 880,
+    "height": 1100,
+    "variants": [
+      {
+        "width": 480,
+        "height": 600,
+        "file": "tyaga-athlete-1-480.webp",
+        "bytes": 7304
+      },
+      {
+        "width": 800,
+        "height": 1000,
+        "file": "tyaga-athlete-1-800.webp",
+        "bytes": 24748
+      },
+      {
+        "width": 880,
+        "height": 1100,
+        "file": "tyaga-athlete-1-880.webp",
+        "bytes": 33378
+      }
+    ],
+    "bytes": 136681
+  },
+  "tyaga-athlete-2": {
+    "slug": "tyaga-athlete-2",
+    "width": 900,
+    "height": 1125,
+    "variants": [
+      {
+        "width": 480,
+        "height": 600,
+        "file": "tyaga-athlete-2-480.webp",
+        "bytes": 12946
+      },
+      {
+        "width": 800,
+        "height": 1000,
+        "file": "tyaga-athlete-2-800.webp",
+        "bytes": 39838
+      },
+      {
+        "width": 900,
+        "height": 1125,
+        "file": "tyaga-athlete-2-900.webp",
+        "bytes": 59944
+      }
+    ],
+    "bytes": 200229
+  },
+  "tyaga-athlete-3": {
+    "slug": "tyaga-athlete-3",
+    "width": 880,
+    "height": 1100,
+    "variants": [
+      {
+        "width": 480,
+        "height": 600,
+        "file": "tyaga-athlete-3-480.webp",
+        "bytes": 41954
+      },
+      {
+        "width": 800,
+        "height": 1000,
+        "file": "tyaga-athlete-3-800.webp",
+        "bytes": 100566
+      },
+      {
+        "width": 880,
+        "height": 1100,
+        "file": "tyaga-athlete-3-880.webp",
+        "bytes": 126776
+      }
+    ],
+    "bytes": 274219
+  },
+  "sloy-hero": {
+    "slug": "sloy-hero",
+    "width": 1024,
+    "height": 640,
+    "variants": [
+      {
+        "width": 480,
+        "height": 300,
+        "file": "sloy-hero-480.webp",
+        "bytes": 11904
+      },
+      {
+        "width": 800,
+        "height": 500,
+        "file": "sloy-hero-800.webp",
+        "bytes": 24262
+      },
+      {
+        "width": 1024,
+        "height": 640,
+        "file": "sloy-hero-1024.webp",
+        "bytes": 44050
+      }
+    ],
+    "bytes": 144624
+  },
+  "sloy-class": {
+    "slug": "sloy-class",
+    "width": 819,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "height": 600,
+        "file": "sloy-class-480.webp",
+        "bytes": 17932
+      },
+      {
+        "width": 800,
+        "height": 1000,
+        "file": "sloy-class-800.webp",
+        "bytes": 40416
+      },
+      {
+        "width": 819,
+        "height": 1024,
+        "file": "sloy-class-819.webp",
+        "bytes": 48784
+      }
+    ],
+    "bytes": 171781
+  },
+  "sloy-code": {
+    "slug": "sloy-code",
+    "width": 1024,
+    "height": 768,
+    "variants": [
+      {
+        "width": 480,
+        "height": 360,
+        "file": "sloy-code-480.webp",
+        "bytes": 11046
+      },
+      {
+        "width": 800,
+        "height": 600,
+        "file": "sloy-code-800.webp",
+        "bytes": 22708
+      },
+      {
+        "width": 1024,
+        "height": 768,
+        "file": "sloy-code-1024.webp",
+        "bytes": 41018
+      }
+    ],
+    "bytes": 159075
+  },
+  "sloy-abstract": {
+    "slug": "sloy-abstract",
+    "width": 1000,
+    "height": 1000,
+    "variants": [
+      {
+        "width": 480,
+        "height": 480,
+        "file": "sloy-abstract-480.webp",
+        "bytes": 3688
+      },
+      {
+        "width": 800,
+        "height": 800,
+        "file": "sloy-abstract-800.webp",
+        "bytes": 9742
+      },
+      {
+        "width": 1000,
+        "height": 1000,
+        "file": "sloy-abstract-1000.webp",
+        "bytes": 21420
+      }
+    ],
+    "bytes": 172547
+  },
+  "sole-hero": {
+    "slug": "sole-hero",
+    "width": 819,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "height": 600,
+        "file": "sole-hero-480.webp",
+        "bytes": 20390
+      },
+      {
+        "width": 800,
+        "height": 1000,
+        "file": "sole-hero-800.webp",
+        "bytes": 49290
+      },
+      {
+        "width": 819,
+        "height": 1024,
+        "file": "sole-hero-819.webp",
+        "bytes": 55938
+      }
+    ],
+    "bytes": 196470
+  },
+  "sole-detail": {
+    "slug": "sole-detail",
+    "width": 800,
+    "height": 1000,
+    "variants": [
+      {
+        "width": 480,
+        "height": 600,
+        "file": "sole-detail-480.webp",
+        "bytes": 21040
+      },
+      {
+        "width": 800,
+        "height": 1000,
+        "file": "sole-detail-800.webp",
+        "bytes": 54152
+      }
+    ],
+    "bytes": 189702
+  },
+  "sole-set": {
+    "slug": "sole-set",
+    "width": 1024,
+    "height": 640,
+    "variants": [
+      {
+        "width": 480,
+        "height": 300,
+        "file": "sole-set-480.webp",
+        "bytes": 12430
+      },
+      {
+        "width": 800,
+        "height": 500,
+        "file": "sole-set-800.webp",
+        "bytes": 26418
+      },
+      {
+        "width": 1024,
+        "height": 640,
+        "file": "sole-set-1024.webp",
+        "bytes": 44744
+      }
+    ],
+    "bytes": 154351
+  },
+  "sole-soft": {
+    "slug": "sole-soft",
+    "width": 819,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "height": 600,
+        "file": "sole-soft-480.webp",
+        "bytes": 5338
+      },
+      {
+        "width": 800,
+        "height": 1000,
+        "file": "sole-soft-800.webp",
+        "bytes": 17792
+      },
+      {
+        "width": 819,
+        "height": 1024,
+        "file": "sole-soft-819.webp",
+        "bytes": 21330
+      }
+    ],
+    "bytes": 155047
+  },
+  "vecher-hero": {
+    "slug": "vecher-hero",
+    "width": 1024,
+    "height": 640,
+    "variants": [
+      {
+        "width": 480,
+        "height": 300,
+        "file": "vecher-hero-480.webp",
+        "bytes": 12604
+      },
+      {
+        "width": 800,
+        "height": 500,
+        "file": "vecher-hero-800.webp",
+        "bytes": 26378
+      },
+      {
+        "width": 1024,
+        "height": 640,
+        "file": "vecher-hero-1024.webp",
+        "bytes": 42336
+      }
+    ],
+    "bytes": 146186
+  },
+  "vecher-dish": {
+    "slug": "vecher-dish",
+    "width": 900,
+    "height": 900,
+    "variants": [
+      {
+        "width": 480,
+        "height": 480,
+        "file": "vecher-dish-480.webp",
+        "bytes": 19290
+      },
+      {
+        "width": 800,
+        "height": 800,
+        "file": "vecher-dish-800.webp",
+        "bytes": 40520
+      },
+      {
+        "width": 900,
+        "height": 900,
+        "file": "vecher-dish-900.webp",
+        "bytes": 53262
+      }
+    ],
+    "bytes": 184090
+  },
+  "vecher-room": {
+    "slug": "vecher-room",
+    "width": 819,
+    "height": 1024,
+    "variants": [
+      {
+        "width": 480,
+        "height": 600,
+        "file": "vecher-room-480.webp",
+        "bytes": 10852
+      },
+      {
+        "width": 800,
+        "height": 1000,
+        "file": "vecher-room-800.webp",
+        "bytes": 27840
+      },
+      {
+        "width": 819,
+        "height": 1024,
+        "file": "vecher-room-819.webp",
+        "bytes": 32470
+      }
+    ],
+    "bytes": 157243
+  },
+  "cta-dark": {
+    "slug": "cta-dark",
+    "width": 1024,
+    "height": 576,
+    "variants": [
+      {
+        "width": 480,
+        "height": 270,
+        "file": "cta-dark-480.webp",
+        "bytes": 12450
+      },
+      {
+        "width": 800,
+        "height": 450,
+        "file": "cta-dark-800.webp",
+        "bytes": 26306
+      },
+      {
+        "width": 1024,
+        "height": 576,
+        "file": "cta-dark-1024.webp",
+        "bytes": 42498
+      }
+    ],
+    "bytes": 132908
+  },
+  "og-cover": {
+    "slug": "og-cover",
+    "width": 1024,
+    "height": 537,
+    "variants": [
+      {
+        "width": 480,
+        "height": 252,
+        "file": "og-cover-480.webp",
+        "bytes": 2840
+      },
+      {
+        "width": 800,
+        "height": 420,
+        "file": "og-cover-800.webp",
+        "bytes": 6616
+      },
+      {
+        "width": 1024,
+        "height": 537,
+        "file": "og-cover-1024.webp",
+        "bytes": 14154
+      }
+    ],
+    "bytes": 100515
+  },
+  "poster-bottle": {
+    "slug": "poster-bottle",
+    "width": 499,
+    "height": 483,
+    "variants": [
+      {
+        "width": 480,
+        "height": 465,
+        "file": "poster-bottle-480.webp",
+        "bytes": 25704
+      },
+      {
+        "width": 499,
+        "height": 483,
+        "file": "poster-bottle.webp",
+        "bytes": 14892
+      }
+    ],
+    "bytes": 14892
+  },
+  "poster-carousel": {
+    "slug": "poster-carousel",
+    "width": 706,
+    "height": 783,
+    "variants": [
+      {
+        "width": 480,
+        "height": 532,
+        "file": "poster-carousel-480.webp",
+        "bytes": 20100
+      },
+      {
+        "width": 706,
+        "height": 783,
+        "file": "poster-carousel.webp",
+        "bytes": 18652
+      }
+    ],
+    "bytes": 18652
+  },
+  "poster-cloche": {
+    "slug": "poster-cloche",
+    "width": 660,
+    "height": 618,
+    "variants": [
+      {
+        "width": 480,
+        "height": 449,
+        "file": "poster-cloche-480.webp",
+        "bytes": 14608
+      },
+      {
+        "width": 660,
+        "height": 618,
+        "file": "poster-cloche.webp",
+        "bytes": 11524
+      }
+    ],
+    "bytes": 11524
+  },
+  "poster-coins": {
+    "slug": "poster-coins",
+    "width": 738,
+    "height": 769,
+    "variants": [
+      {
+        "width": 480,
+        "height": 500,
+        "file": "poster-coins-480.webp",
+        "bytes": 22022
+      },
+      {
+        "width": 738,
+        "height": 769,
+        "file": "poster-coins.webp",
+        "bytes": 18328
+      }
+    ],
+    "bytes": 18328
+  },
+  "poster-cup": {
+    "slug": "poster-cup",
+    "width": 484,
+    "height": 483,
+    "variants": [
+      {
+        "width": 480,
+        "height": 479,
+        "file": "poster-cup-480.webp",
+        "bytes": 14804
+      },
+      {
+        "width": 484,
+        "height": 483,
+        "file": "poster-cup.webp",
+        "bytes": 8250
+      }
+    ],
+    "bytes": 8250
+  },
+  "poster-dumbbell": {
+    "slug": "poster-dumbbell",
+    "width": 618,
+    "height": 541,
+    "variants": [
+      {
+        "width": 480,
+        "height": 420,
+        "file": "poster-dumbbell-480.webp",
+        "bytes": 26332
+      },
+      {
+        "width": 618,
+        "height": 541,
+        "file": "poster-dumbbell.webp",
+        "bytes": 14800
+      }
+    ],
+    "bytes": 14800
+  },
+  "poster-home": {
+    "slug": "poster-home",
+    "width": 823,
+    "height": 837,
+    "variants": [
+      {
+        "width": 480,
+        "height": 488,
+        "file": "poster-home-480.webp",
+        "bytes": 25938
+      },
+      {
+        "width": 823,
+        "height": 837,
+        "file": "poster-home.webp",
+        "bytes": 20508
+      }
+    ],
+    "bytes": 20508
+  },
+  "poster-layers": {
+    "slug": "poster-layers",
+    "width": 731,
+    "height": 823,
+    "variants": [
+      {
+        "width": 480,
+        "height": 540,
+        "file": "poster-layers-480.webp",
+        "bytes": 12014
+      },
+      {
+        "width": 731,
+        "height": 823,
+        "file": "poster-layers.webp",
+        "bytes": 12350
+      }
+    ],
+    "bytes": 12350
+  },
+  "poster-neon": {
+    "slug": "poster-neon",
+    "width": 745,
+    "height": 557,
+    "variants": [
+      {
+        "width": 480,
+        "height": 359,
+        "file": "poster-neon-480.webp",
+        "bytes": 68814
+      },
+      {
+        "width": 745,
+        "height": 557,
+        "file": "poster-neon.webp",
+        "bytes": 51388
+      }
+    ],
+    "bytes": 51388
+  },
+  "poster-orbit": {
+    "slug": "poster-orbit",
+    "width": 291,
+    "height": 810,
+    "variants": [
+      {
+        "width": 291,
+        "height": 810,
+        "file": "poster-orbit.webp",
+        "bytes": 6562
+      }
+    ],
+    "bytes": 6562
+  },
+  "poster-plane": {
+    "slug": "poster-plane",
+    "width": 714,
+    "height": 715,
+    "variants": [
+      {
+        "width": 480,
+        "height": 481,
+        "file": "poster-plane-480.webp",
+        "bytes": 26090
+      },
+      {
+        "width": 714,
+        "height": 715,
+        "file": "poster-plane.webp",
+        "bytes": 12376
+      }
+    ],
+    "bytes": 12376
+  }
+}
