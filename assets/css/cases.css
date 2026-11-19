@@ -586,16 +586,16 @@
 .case-moka {
   --case-display: 'Cormorant Garamond', Georgia, serif;
   --case-body: 'Onest', sans-serif;
-  --case-bg: #eee3d1;
-  --case-fg: #2e1b13;
-  --case-muted: rgba(46, 27, 19, 0.62);
-  --case-line: rgba(46, 27, 19, 0.17);
-  --case-line-strong: rgba(46, 27, 19, 0.36);
-  --case-accent: #b75027;
-  --case-accent-2: #5a6b43;
+  --case-bg: #171310;
+  --case-fg: #f2e6d8;
+  --case-muted: rgba(242, 230, 216, 0.6);
+  --case-line: rgba(242, 230, 216, 0.15);
+  --case-line-strong: rgba(242, 230, 216, 0.34);
+  --case-accent: #c9642f;
+  --case-accent-2: #8aa17a;
   --case-accent-fg: #ffffff;
-  --case-card: #e1d2bb;
-  --case-scene-bg: #ddcbb1;
+  --case-card: #1f1a15;
+  --case-scene-bg: #241c14;
   --case-radius: 22px;
   background-image:
     radial-gradient(circle at 95% 16%, rgba(183, 80, 39, 0.08), transparent 23%),
@@ -680,11 +680,11 @@
   width: 63%;
   height: 58%;
   min-height: 330px;
-  border-color: rgba(46, 27, 19, 0.18);
+  border-color: rgba(242, 230, 216, 0.14);
   background:
-    radial-gradient(circle at 45% 45%, rgba(255, 207, 145, 0.54), transparent 62%),
-    linear-gradient(145deg, #ebdbc0, #d4b990);
-  box-shadow: 0 22px 70px rgba(54, 28, 14, 0.15);
+    radial-gradient(circle at 45% 45%, rgba(230, 150, 90, 0.24), transparent 62%),
+    linear-gradient(145deg, #261c14, #1c1410);
+  box-shadow: 0 22px 70px rgba(0, 0, 0, 0.35);
 }
 
 .moka-hero__stamp {
@@ -854,7 +854,7 @@
 }
 
 .moka-menu {
-  background: #e8dac4;
+  background: #1d1813;
 }
 
 .moka-menu__layout {
@@ -2090,16 +2090,16 @@
 .case-sole {
   --case-display: 'Playfair Display', Georgia, serif;
   --case-body: 'Onest', sans-serif;
-  --case-bg: #f4eae3;
-  --case-fg: #432c25;
-  --case-muted: rgba(67, 44, 37, 0.58);
-  --case-line: rgba(67, 44, 37, 0.15);
-  --case-line-strong: rgba(67, 44, 37, 0.32);
-  --case-accent: #96604b;
-  --case-accent-2: #d8b9a4;
+  --case-bg: #17120f;
+  --case-fg: #f5e9e0;
+  --case-muted: rgba(245, 233, 224, 0.6);
+  --case-line: rgba(245, 233, 224, 0.15);
+  --case-line-strong: rgba(245, 233, 224, 0.33);
+  --case-accent: #c98a6c;
+  --case-accent-2: #e2c0ab;
   --case-accent-fg: #ffffff;
-  --case-card: #ecdcd3;
-  --case-scene-bg: #ead8ce;
+  --case-card: #211a15;
+  --case-scene-bg: #241b14;
   --case-radius: 200px;
   background-image:
     radial-gradient(circle at 89% 11%, rgba(216, 185, 164, 0.3), transparent 27%),
@@ -2170,7 +2170,7 @@
   height: 93%;
   overflow: hidden;
   border-radius: 300px 300px var(--case-radius) var(--case-radius);
-  background: #ead6cb;
+  background: #241b14;
 }
 
 .sole-hero__arch img {
@@ -2197,9 +2197,9 @@
   width: 68%;
   height: 58%;
   min-height: 340px;
-  border-color: rgba(67, 44, 37, 0.14);
-  background: radial-gradient(circle at 50% 45%, rgba(255, 239, 227, 0.75), transparent 65%), #e8d3c9;
-  box-shadow: 0 24px 60px rgba(96, 55, 38, 0.12);
+  border-color: rgba(245, 233, 224, 0.12);
+  background: radial-gradient(circle at 50% 45%, rgba(235, 190, 160, 0.25), transparent 65%), #2a2018;
+  box-shadow: 0 24px 60px rgba(0, 0, 0, 0.35);
 }
 
 .sole-badge {
@@ -2331,7 +2331,7 @@
 }
 
 .sole-ritual {
-  background: #eee0d7;
+  background: #201a15;
 }
 
 .sole-ritual__grid {
@@ -2445,7 +2445,7 @@
   gap: 20px;
   border: 1px solid var(--case-line);
   border-radius: 150px 150px 12px 12px;
-  background: #f0e2da;
+  background: #211a15;
   transition: border-color 0.3s ease, transform 0.3s var(--ease);
 }
 
@@ -2461,8 +2461,8 @@
   place-items: center;
   border-radius: 140px 140px 6px 6px;
   background:
-    radial-gradient(circle at 50% 42%, rgba(255, 248, 241, 0.85), transparent 55%),
-    #e8d0c6;
+    radial-gradient(circle at 50% 42%, rgba(235, 190, 160, 0.28), transparent 55%),
+    #2b2018;
   color: var(--case-accent);
 }
 
@@ -2530,7 +2530,7 @@
 }
 
 .sole-quote {
-  background: #ead8ce;
+  background: #1d1814;
 }
 
 .sole-quote__inner {
