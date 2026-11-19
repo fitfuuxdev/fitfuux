@@ -179,7 +179,6 @@ ${ticker()}
       </div>
       <div class="manifesto__aside">
         <p>Он встречает человека, отвечает на вопросы и ведёт к кнопке. Даже когда вы заняты или спите. Моя задача — чтобы это выглядело красиво и работало без запинок.</p>
-        <div class="signature">Алексей</div>
       </div>
     </div>
     <div class="manifesto-media reveal" data-reveal-delay="1">
