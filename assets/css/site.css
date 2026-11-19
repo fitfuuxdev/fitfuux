@@ -2988,8 +2988,20 @@ h4 {
 
 .portfolio-principles {
   display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
+  grid-template-columns: repeat(12, minmax(0, 1fr));
   gap: 12px;
+}
+
+.portfolio-principles .principle {
+  grid-column: span 4;
+}
+
+.portfolio-principles .principle:nth-child(2) {
+  margin-top: clamp(18px, 4vw, 56px);
+}
+
+.portfolio-principles .principle:nth-child(3) {
+  margin-top: clamp(6px, 1.4vw, 20px);
 }
 
 .principle {
@@ -3202,11 +3214,12 @@ h4 {
 
 .values {
   display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
+  grid-template-columns: repeat(12, minmax(0, 1fr));
   gap: 12px;
 }
 
 .value-card {
+  grid-column: span 4;
   display: flex;
   min-height: 280px;
   padding: 26px;
@@ -3216,6 +3229,20 @@ h4 {
   border: 1px solid var(--line-light);
   border-radius: var(--radius);
   background: transparent;
+}
+
+/* live, slightly asymmetric rhythm: the middle card reads as the anchor */
+.value-card:nth-child(2) {
+  grid-column: span 4;
+  margin-top: clamp(18px, 4vw, 56px);
+}
+
+.value-card:nth-child(3) {
+  margin-top: clamp(6px, 1.4vw, 20px);
+}
+
+.value-card:nth-child(1) {
+  align-self: start;
 }
 
 .value-card__num {
@@ -4382,6 +4409,12 @@ h4 {
     display: block;
   }
 
+  .portfolio-principles .principle,
+  .portfolio-principles .principle:nth-child(2),
+  .portfolio-principles .principle:nth-child(3) {
+    margin-top: 0;
+  }
+
   .principle {
     min-height: 0;
     margin-bottom: 10px;
@@ -4444,6 +4477,12 @@ h4 {
 
   .values {
     display: block;
+  }
+
+  .value-card,
+  .value-card:nth-child(2),
+  .value-card:nth-child(3) {
+    margin-top: 0;
   }
 
   .value-card {

@@ -1784,8 +1784,20 @@
 
 .sloy-courses__grid {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 10px;
+  grid-template-columns: repeat(12, minmax(0, 1fr));
+  gap: 12px 10px;
+}
+
+.sloy-course {
+  grid-column: span 4;
+}
+
+.sloy-course:nth-child(2) {
+  margin-top: clamp(16px, 3.5vw, 48px);
+}
+
+.sloy-course:nth-child(3) {
+  margin-top: clamp(5px, 1.2vw, 16px);
 }
 
 .sloy-course {
@@ -3342,6 +3354,12 @@
 
   .sloy-courses__grid {
     grid-template-columns: 1fr;
+  }
+
+  .sloy-course,
+  .sloy-course:nth-child(2),
+  .sloy-course:nth-child(3) {
+    margin-top: 0;
   }
 
   .sloy-course {
