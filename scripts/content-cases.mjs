@@ -115,7 +115,7 @@ function moka() {
   </div>
 </section>
 <section class="moka-quote">
-  ${image('moka-vibe', '', { sizes: '100vw', className: 'moka-quote__bg' })}
+  ${image('moka-vibe', '', { sizes: '100vw', className: 'moka-quote__bg', parallax: 11 })}
   <div class="case-shell moka-quote__inner">
     <blockquote>«Хороший кофе не нуждается в громких словах».</blockquote>
     <p class="moka-quote__by"><span class="dot"></span> команда MÓKA</p>

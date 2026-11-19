@@ -77,7 +77,7 @@ function ticker() {
 
 function ctaBand({ eyebrow = 'Есть идея?', title, text, meta = true }) {
   return `<section class="cta-band">
-  ${image('cta-dark', '', { sizes: '100vw', loading: 'lazy', className: 'cta-band__bg' })}
+  ${image('cta-dark', '', { sizes: '100vw', loading: 'lazy', className: 'cta-band__bg', parallax: 10 })}
   <div class="shell">
     <div class="cta-band__inner">
       <div>
@@ -136,7 +136,7 @@ function pageHome() {
   const main = `
 <section class="hero hero--home" aria-labelledby="home-title">
   <div class="hero__bg" aria-hidden="true">
-    ${image('cta-dark', '', { sizes: '100vw', loading: 'eager', priority: true })}
+    ${image('cta-dark', '', { sizes: '100vw', loading: 'eager', priority: true, parallax: 14 })}
   </div>
   <div class="shell hero__inner">
     <div class="hero__copy reveal">
@@ -183,7 +183,7 @@ ${ticker()}
       </div>
     </div>
     <div class="manifesto-media reveal" data-reveal-delay="1">
-      ${image('studio-work', 'Рабочий процесс: руки, ноутбук и свет в мастерской', { sizes: '(max-width: 820px) 100vw, 100vw' })}
+      ${image('studio-work', 'Рабочий процесс: руки, ноутбук и свет в мастерской', { sizes: '(max-width: 820px) 100vw, 100vw', parallax: 7 })}
       <div class="manifesto-media__tag"><span class="dot"></span><span>Сначала разбираюсь в задаче. Потом открываю редактор.</span></div>
     </div>
   </div>
@@ -346,7 +346,7 @@ function pageServices() {
 
   const main = `
 <section class="page-hero page-hero--dark" aria-labelledby="services-title">
-  <div class="hero__bg" aria-hidden="true">${image('abstract-veil', '', { sizes: '100vw', loading: 'eager' })}</div>
+  <div class="hero__bg" aria-hidden="true">${image('abstract-veil', '', { sizes: '100vw', loading: 'eager', parallax: 12 })}</div>
   <div class="shell page-hero__inner">
     <div class="page-hero__copy reveal">
       <p class="eyebrow eyebrow--light">Услуги · от идеи до запуска</p>
@@ -376,8 +376,8 @@ function pageServices() {
       </section>`).join('')}
     </div>
     <div class="service-photo reveal">
-      <div class="service-photo__item">${image('studio-process', 'Наброски будущего сайта на столе', { sizes: '(max-width: 820px) 100vw, 55vw' })}<div class="service-photo__caption"><span>01 / эскизы</span><span>потом код</span></div></div>
-      <div class="service-photo__item">${image('studio-code', 'Работа над сайтом за ноутбуком', { sizes: '(max-width: 820px) 100vw, 45vw' })}<div class="service-photo__caption"><span>02 / сборка</span><span>проверки</span></div></div>
+      <div class="service-photo__item">${image('studio-process', 'Наброски будущего сайта на столе', { sizes: '(max-width: 820px) 100vw, 55vw', parallax: 8 })}<div class="service-photo__caption"><span>01 / эскизы</span><span>потом код</span></div></div>
+      <div class="service-photo__item">${image('studio-code', 'Работа над сайтом за ноутбуком', { sizes: '(max-width: 820px) 100vw, 45vw', parallax: 8 })}<div class="service-photo__caption"><span>02 / сборка</span><span>проверки</span></div></div>
     </div>
   </div>
 </section>

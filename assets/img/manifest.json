@@ -8,22 +8,22 @@
         "width": 480,
         "height": 300,
         "file": "studio-hero-480.webp",
-        "bytes": 11448
+        "bytes": 14132
       },
       {
         "width": 800,
         "height": 500,
         "file": "studio-hero-800.webp",
-        "bytes": 23090
+        "bytes": 33906
       },
       {
         "width": 1024,
         "height": 640,
         "file": "studio-hero-1024.webp",
-        "bytes": 37176
+        "bytes": 52214
       }
     ],
-    "bytes": 141655
+    "bytes": 100252
   },
   "studio-hero-mobile": {
     "slug": "studio-hero-mobile",
@@ -34,22 +34,22 @@
         "width": 480,
         "height": 600,
         "file": "studio-hero-mobile-480.webp",
-        "bytes": 16454
+        "bytes": 24218
       },
       {
         "width": 800,
         "height": 1000,
         "file": "studio-hero-mobile-800.webp",
-        "bytes": 37946
+        "bytes": 59136
       },
       {
         "width": 819,
         "height": 1024,
         "file": "studio-hero-mobile-819.webp",
-        "bytes": 43764
+        "bytes": 62890
       }
     ],
-    "bytes": 179727
+    "bytes": 146244
   },
   "studio-work": {
     "slug": "studio-work",
@@ -60,22 +60,22 @@
         "width": 480,
         "height": 360,
         "file": "studio-work-480.webp",
-        "bytes": 10326
+        "bytes": 15906
       },
       {
         "width": 800,
         "height": 600,
         "file": "studio-work-800.webp",
-        "bytes": 21450
+        "bytes": 36914
       },
       {
         "width": 1024,
         "height": 768,
         "file": "studio-work-1024.webp",
-        "bytes": 38670
+        "bytes": 58148
       }
     ],
-    "bytes": 156574
+    "bytes": 110968
   },
   "studio-process": {
     "slug": "studio-process",
@@ -86,22 +86,22 @@
         "width": 480,
         "height": 330,
         "file": "studio-process-480.webp",
-        "bytes": 14276
+        "bytes": 20928
       },
       {
         "width": 800,
         "height": 550,
         "file": "studio-process-800.webp",
-        "bytes": 28834
+        "bytes": 49870
       },
       {
         "width": 1024,
         "height": 704,
         "file": "studio-process-1024.webp",
-        "bytes": 48236
+        "bytes": 76250
       }
     ],
-    "bytes": 164450
+    "bytes": 147048
   },
   "studio-detail": {
     "slug": "studio-detail",
@@ -112,22 +112,22 @@
         "width": 480,
         "height": 480,
         "file": "studio-detail-480.webp",
-        "bytes": 20078
+        "bytes": 29228
       },
       {
         "width": 800,
         "height": 800,
         "file": "studio-detail-800.webp",
-        "bytes": 41478
+        "bytes": 67950
       },
       {
         "width": 900,
         "height": 900,
         "file": "studio-detail-900.webp",
-        "bytes": 52914
+        "bytes": 83708
       }
     ],
-    "bytes": 188310
+    "bytes": 180886
   },
   "abstract-ember": {
     "slug": "abstract-ember",
@@ -138,22 +138,22 @@
         "width": 480,
         "height": 300,
         "file": "abstract-ember-480.webp",
-        "bytes": 17346
+        "bytes": 15444
       },
       {
         "width": 800,
         "height": 500,
         "file": "abstract-ember-800.webp",
-        "bytes": 36774
+        "bytes": 34842
       },
       {
         "width": 1024,
         "height": 640,
         "file": "abstract-ember-1024.webp",
-        "bytes": 56178
+        "bytes": 51384
       }
     ],
-    "bytes": 158812
+    "bytes": 101670
   },
   "abstract-veil": {
     "slug": "abstract-veil",
@@ -164,22 +164,22 @@
         "width": 480,
         "height": 300,
         "file": "abstract-veil-480.webp",
-        "bytes": 3340
+        "bytes": 11294
       },
       {
         "width": 800,
         "height": 500,
         "file": "abstract-veil-800.webp",
-        "bytes": 7856
+        "bytes": 30944
       },
       {
         "width": 1024,
         "height": 640,
         "file": "abstract-veil-1024.webp",
-        "bytes": 16410
+        "bytes": 49816
       }
     ],
-    "bytes": 115763
+    "bytes": 92054
   },
   "brand-cube": {
     "slug": "brand-cube",
@@ -205,7 +205,7 @@
         "bytes": 25718
       }
     ],
-    "bytes": 180011
+    "bytes": 42316
   },
   "studio-code": {
     "slug": "studio-code",
@@ -216,22 +216,22 @@
         "width": 480,
         "height": 330,
         "file": "studio-code-480.webp",
-        "bytes": 8126
+        "bytes": 13466
       },
       {
         "width": 800,
         "height": 550,
         "file": "studio-code-800.webp",
-        "bytes": 17052
+        "bytes": 31836
       },
       {
         "width": 1024,
         "height": 704,
         "file": "studio-code-1024.webp",
-        "bytes": 31786
+        "bytes": 51528
       }
     ],
-    "bytes": 135899
+    "bytes": 96830
   },
   "moka-hero": {
     "slug": "moka-hero",
@@ -242,22 +242,22 @@
         "width": 480,
         "height": 600,
         "file": "moka-hero-480.webp",
-        "bytes": 18910
+        "bytes": 24494
       },
       {
         "width": 800,
         "height": 1000,
         "file": "moka-hero-800.webp",
-        "bytes": 42774
+        "bytes": 59120
       },
       {
         "width": 819,
         "height": 1024,
         "file": "moka-hero-819.webp",
-        "bytes": 50814
+        "bytes": 61948
       }
     ],
-    "bytes": 180330
+    "bytes": 145562
   },
   "moka-pour": {
     "slug": "moka-pour",
@@ -268,22 +268,22 @@
         "width": 480,
         "height": 480,
         "file": "moka-pour-480.webp",
-        "bytes": 17430
+        "bytes": 21236
       },
       {
         "width": 800,
         "height": 800,
         "file": "moka-pour-800.webp",
-        "bytes": 37456
+        "bytes": 48006
       },
       {
         "width": 900,
         "height": 900,
         "file": "moka-pour-900.webp",
-        "bytes": 48616
+        "bytes": 61864
       }
     ],
-    "bytes": 177876
+    "bytes": 131106
   },
   "moka-cup": {
     "slug": "moka-cup",
@@ -294,22 +294,22 @@
         "width": 480,
         "height": 360,
         "file": "moka-cup-480.webp",
-        "bytes": 14074
+        "bytes": 16404
       },
       {
         "width": 800,
         "height": 600,
         "file": "moka-cup-800.webp",
-        "bytes": 29112
+        "bytes": 38114
       },
       {
         "width": 900,
         "height": 675,
         "file": "moka-cup-900.webp",
-        "bytes": 38328
+        "bytes": 46018
       }
     ],
-    "bytes": 133369
+    "bytes": 100536
   },
   "moka-vibe": {
     "slug": "moka-vibe",
@@ -320,22 +320,22 @@
         "width": 480,
         "height": 300,
         "file": "moka-vibe-480.webp",
-        "bytes": 6706
+        "bytes": 8314
       },
       {
         "width": 800,
         "height": 500,
         "file": "moka-vibe-800.webp",
-        "bytes": 14094
+        "bytes": 21404
       },
       {
         "width": 1024,
         "height": 640,
         "file": "moka-vibe-1024.webp",
-        "bytes": 25240
+        "bytes": 32434
       }
     ],
-    "bytes": 125411
+    "bytes": 62152
   },
   "tyaga-hero": {
     "slug": "tyaga-hero",
@@ -346,22 +346,22 @@
         "width": 480,
         "height": 300,
         "file": "tyaga-hero-480.webp",
-        "bytes": 11870
+        "bytes": 14676
       },
       {
         "width": 800,
         "height": 500,
         "file": "tyaga-hero-800.webp",
-        "bytes": 24524
+        "bytes": 37716
       },
       {
         "width": 1024,
         "height": 640,
         "file": "tyaga-hero-1024.webp",
-        "bytes": 39980
+        "bytes": 58390
       }
     ],
-    "bytes": 147036
+    "bytes": 110782
   },
   "tyaga-gym": {
     "slug": "tyaga-gym",
@@ -372,28 +372,28 @@
         "width": 480,
         "height": 300,
         "file": "tyaga-gym-480.webp",
-        "bytes": 7212
+        "bytes": 12330
       },
       {
         "width": 800,
         "height": 500,
         "file": "tyaga-gym-800.webp",
-        "bytes": 14362
+        "bytes": 31302
       },
       {
         "width": 1200,
         "height": 750,
         "file": "tyaga-gym-1200.webp",
-        "bytes": 27996
+        "bytes": 67470
       },
       {
         "width": 1600,
         "height": 1000,
         "file": "tyaga-gym-1600.webp",
-        "bytes": 73250
+        "bytes": 118814
       }
     ],
-    "bytes": 329834
+    "bytes": 229916
   },
   "tyaga-athlete-1": {
     "slug": "tyaga-athlete-1",
@@ -404,22 +404,22 @@
         "width": 480,
         "height": 600,
         "file": "tyaga-athlete-1-480.webp",
-        "bytes": 7304
+        "bytes": 8760
       },
       {
         "width": 800,
         "height": 1000,
         "file": "tyaga-athlete-1-800.webp",
-        "bytes": 24748
+        "bytes": 27818
       },
       {
         "width": 880,
         "height": 1100,
         "file": "tyaga-athlete-1-880.webp",
-        "bytes": 33378
+        "bytes": 35352
       }
     ],
-    "bytes": 136681
+    "bytes": 71930
   },
   "tyaga-athlete-2": {
     "slug": "tyaga-athlete-2",
@@ -430,22 +430,22 @@
         "width": 480,
         "height": 600,
         "file": "tyaga-athlete-2-480.webp",
-        "bytes": 12946
+        "bytes": 18082
       },
       {
         "width": 800,
         "height": 1000,
         "file": "tyaga-athlete-2-800.webp",
-        "bytes": 39838
+        "bytes": 47870
       },
       {
         "width": 900,
         "height": 1125,
         "file": "tyaga-athlete-2-900.webp",
-        "bytes": 59944
+        "bytes": 63892
       }
     ],
-    "bytes": 200229
+    "bytes": 129844
   },
   "tyaga-athlete-3": {
     "slug": "tyaga-athlete-3",
@@ -456,22 +456,22 @@
         "width": 480,
         "height": 600,
         "file": "tyaga-athlete-3-480.webp",
-        "bytes": 41954
+        "bytes": 44728
       },
       {
         "width": 800,
         "height": 1000,
         "file": "tyaga-athlete-3-800.webp",
-        "bytes": 100566
+        "bytes": 109002
       },
       {
         "width": 880,
         "height": 1100,
         "file": "tyaga-athlete-3-880.webp",
-        "bytes": 126776
+        "bytes": 131888
       }
     ],
-    "bytes": 274219
+    "bytes": 285618
   },
   "sloy-hero": {
     "slug": "sloy-hero",
@@ -482,22 +482,22 @@
         "width": 480,
         "height": 300,
         "file": "sloy-hero-480.webp",
-        "bytes": 11904
+        "bytes": 14562
       },
       {
         "width": 800,
         "height": 500,
         "file": "sloy-hero-800.webp",
-        "bytes": 24262
+        "bytes": 34044
       },
       {
         "width": 1024,
         "height": 640,
         "file": "sloy-hero-1024.webp",
-        "bytes": 44050
+        "bytes": 51470
       }
     ],
-    "bytes": 144624
+    "bytes": 100076
   },
   "sloy-class": {
     "slug": "sloy-class",
@@ -508,22 +508,22 @@
         "width": 480,
         "height": 600,
         "file": "sloy-class-480.webp",
-        "bytes": 17932
+        "bytes": 26440
       },
       {
         "width": 800,
         "height": 1000,
         "file": "sloy-class-800.webp",
-        "bytes": 40416
+        "bytes": 63520
       },
       {
         "width": 819,
         "height": 1024,
         "file": "sloy-class-819.webp",
-        "bytes": 48784
+        "bytes": 69658
       }
     ],
-    "bytes": 171781
+    "bytes": 159618
   },
   "sloy-code": {
     "slug": "sloy-code",
@@ -534,22 +534,22 @@
         "width": 480,
         "height": 360,
         "file": "sloy-code-480.webp",
-        "bytes": 11046
+        "bytes": 16884
       },
       {
         "width": 800,
         "height": 600,
         "file": "sloy-code-800.webp",
-        "bytes": 22708
+        "bytes": 40760
       },
       {
         "width": 1024,
         "height": 768,
         "file": "sloy-code-1024.webp",
-        "bytes": 41018
+        "bytes": 63648
       }
     ],
-    "bytes": 159075
+    "bytes": 121292
   },
   "sloy-abstract": {
     "slug": "sloy-abstract",
@@ -560,22 +560,22 @@
         "width": 480,
         "height": 480,
         "file": "sloy-abstract-480.webp",
-        "bytes": 3688
+        "bytes": 14382
       },
       {
         "width": 800,
         "height": 800,
         "file": "sloy-abstract-800.webp",
-        "bytes": 9742
+        "bytes": 38054
       },
       {
         "width": 1000,
         "height": 1000,
         "file": "sloy-abstract-1000.webp",
-        "bytes": 21420
+        "bytes": 60434
       }
     ],
-    "bytes": 172547
+    "bytes": 112870
   },
   "sole-hero": {
     "slug": "sole-hero",
@@ -586,22 +586,22 @@
         "width": 480,
         "height": 600,
         "file": "sole-hero-480.webp",
-        "bytes": 20390
+        "bytes": 41132
       },
       {
         "width": 800,
         "height": 1000,
         "file": "sole-hero-800.webp",
-        "bytes": 49290
+        "bytes": 103858
       },
       {
         "width": 819,
         "height": 1024,
         "file": "sole-hero-819.webp",
-        "bytes": 55938
+        "bytes": 109092
       }
     ],
-    "bytes": 196470
+    "bytes": 254082
   },
   "sole-detail": {
     "slug": "sole-detail",
@@ -612,16 +612,16 @@
         "width": 480,
         "height": 600,
         "file": "sole-detail-480.webp",
-        "bytes": 21040
+        "bytes": 42302
       },
       {
         "width": 800,
         "height": 1000,
         "file": "sole-detail-800.webp",
-        "bytes": 54152
+        "bytes": 105208
       }
     ],
-    "bytes": 189702
+    "bytes": 147510
   },
   "sole-set": {
     "slug": "sole-set",
@@ -632,22 +632,22 @@
         "width": 480,
         "height": 300,
         "file": "sole-set-480.webp",
-        "bytes": 12430
+        "bytes": 22422
       },
       {
         "width": 800,
         "height": 500,
         "file": "sole-set-800.webp",
-        "bytes": 26418
+        "bytes": 56784
       },
       {
         "width": 1024,
         "height": 640,
         "file": "sole-set-1024.webp",
-        "bytes": 44744
+        "bytes": 88536
       }
     ],
-    "bytes": 154351
+    "bytes": 167742
   },
   "sole-soft": {
     "slug": "sole-soft",
@@ -658,22 +658,22 @@
         "width": 480,
         "height": 600,
         "file": "sole-soft-480.webp",
-        "bytes": 5338
+        "bytes": 22842
       },
       {
         "width": 800,
         "height": 1000,
         "file": "sole-soft-800.webp",
-        "bytes": 17792
+        "bytes": 62014
       },
       {
         "width": 819,
         "height": 1024,
         "file": "sole-soft-819.webp",
-        "bytes": 21330
+        "bytes": 66010
       }
     ],
-    "bytes": 155047
+    "bytes": 150866
   },
   "vecher-hero": {
     "slug": "vecher-hero",
@@ -684,22 +684,22 @@
         "width": 480,
         "height": 300,
         "file": "vecher-hero-480.webp",
-        "bytes": 12604
+        "bytes": 15262
       },
       {
         "width": 800,
         "height": 500,
         "file": "vecher-hero-800.webp",
-        "bytes": 26378
+        "bytes": 35104
       },
       {
         "width": 1024,
         "height": 640,
         "file": "vecher-hero-1024.webp",
-        "bytes": 42336
+        "bytes": 55738
       }
     ],
-    "bytes": 146186
+    "bytes": 106104
   },
   "vecher-dish": {
     "slug": "vecher-dish",
@@ -710,22 +710,22 @@
         "width": 480,
         "height": 480,
         "file": "vecher-dish-480.webp",
-        "bytes": 19290
+        "bytes": 25452
       },
       {
         "width": 800,
         "height": 800,
         "file": "vecher-dish-800.webp",
-        "bytes": 40520
+        "bytes": 58396
       },
       {
         "width": 900,
         "height": 900,
         "file": "vecher-dish-900.webp",
-        "bytes": 53262
+        "bytes": 72752
       }
     ],
-    "bytes": 184090
+    "bytes": 156600
   },
   "vecher-room": {
     "slug": "vecher-room",
@@ -736,22 +736,22 @@
         "width": 480,
         "height": 600,
         "file": "vecher-room-480.webp",
-        "bytes": 10852
+        "bytes": 15840
       },
       {
         "width": 800,
         "height": 1000,
         "file": "vecher-room-800.webp",
-        "bytes": 27840
+        "bytes": 40018
       },
       {
         "width": 819,
         "height": 1024,
         "file": "vecher-room-819.webp",
-        "bytes": 32470
+        "bytes": 42214
       }
     ],
-    "bytes": 157243
+    "bytes": 98072
   },
   "cta-dark": {
     "slug": "cta-dark",
@@ -762,22 +762,22 @@
         "width": 480,
         "height": 270,
         "file": "cta-dark-480.webp",
-        "bytes": 12450
+        "bytes": 9828
       },
       {
         "width": 800,
         "height": 450,
         "file": "cta-dark-800.webp",
-        "bytes": 26306
+        "bytes": 23192
       },
       {
         "width": 1024,
         "height": 576,
         "file": "cta-dark-1024.webp",
-        "bytes": 42498
+        "bytes": 35184
       }
     ],
-    "bytes": 132908
+    "bytes": 68204
   },
   "og-cover": {
     "slug": "og-cover",
@@ -788,22 +788,22 @@
         "width": 480,
         "height": 252,
         "file": "og-cover-480.webp",
-        "bytes": 2840
+        "bytes": 10040
       },
       {
         "width": 800,
         "height": 420,
         "file": "og-cover-800.webp",
-        "bytes": 6616
+        "bytes": 25624
       },
       {
         "width": 1024,
         "height": 537,
         "file": "og-cover-1024.webp",
-        "bytes": 14154
+        "bytes": 42606
       }
     ],
-    "bytes": 100515
+    "bytes": 78270
   },
   "poster-bottle": {
     "slug": "poster-bottle",
@@ -823,7 +823,7 @@
         "bytes": 14892
       }
     ],
-    "bytes": 14892
+    "bytes": 40596
   },
   "poster-carousel": {
     "slug": "poster-carousel",
@@ -843,7 +843,7 @@
         "bytes": 18652
       }
     ],
-    "bytes": 18652
+    "bytes": 38752
   },
   "poster-cloche": {
     "slug": "poster-cloche",
@@ -863,7 +863,7 @@
         "bytes": 11524
       }
     ],
-    "bytes": 11524
+    "bytes": 26132
   },
   "poster-coins": {
     "slug": "poster-coins",
@@ -883,7 +883,7 @@
         "bytes": 18328
       }
     ],
-    "bytes": 18328
+    "bytes": 40350
   },
   "poster-cup": {
     "slug": "poster-cup",
@@ -903,7 +903,7 @@
         "bytes": 8250
       }
     ],
-    "bytes": 8250
+    "bytes": 23054
   },
   "poster-dumbbell": {
     "slug": "poster-dumbbell",
@@ -923,7 +923,7 @@
         "bytes": 14800
       }
     ],
-    "bytes": 14800
+    "bytes": 41132
   },
   "poster-home": {
     "slug": "poster-home",
@@ -943,7 +943,7 @@
         "bytes": 20508
       }
     ],
-    "bytes": 20508
+    "bytes": 46446
   },
   "poster-layers": {
     "slug": "poster-layers",
@@ -963,7 +963,7 @@
         "bytes": 12350
       }
     ],
-    "bytes": 12350
+    "bytes": 24364
   },
   "poster-neon": {
     "slug": "poster-neon",
@@ -983,7 +983,7 @@
         "bytes": 51388
       }
     ],
-    "bytes": 51388
+    "bytes": 120202
   },
   "poster-orbit": {
     "slug": "poster-orbit",
@@ -1017,6 +1017,6 @@
         "bytes": 12376
       }
     ],
-    "bytes": 12376
+    "bytes": 38466
   }
 }

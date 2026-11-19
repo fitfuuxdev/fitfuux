@@ -7,7 +7,7 @@ export const TELEGRAM = 'https://t.me/Fitfuux';
 export const TELEGRAM_LABEL = '@Fitfuux';
 export const PHONE = '+7 995 258-57-87';
 export const PHONE_HREF = 'tel:+79952585787';
-export const COPYRIGHT = '© Fitfuux · «Создано Fitfuux»';
+export const COPYRIGHT = '© Fitfuux · собрано вручную, без шаблонов';
 export const IMAGES = JSON.parse(fs.readFileSync(path.join(ROOT, 'assets', 'img', 'manifest.json'), 'utf8'));
 
 export const NAV = [
@@ -136,7 +136,8 @@ export function makeImage(prefix) {
     const loading = options.loading || 'lazy';
     const priority = options.priority ? ' fetchpriority="high"' : '';
     const classes = options.className ? ` class="${options.className}"` : '';
-    return `<img src="${prefix}assets/img/${largest.file}" srcset="${srcset}" sizes="${sizes}" width="${largest.width}" height="${largest.height}" alt="${esc(alt)}" loading="${loading}" decoding="async"${priority}${classes}>`;
+    const parallax = options.parallax ? ` data-parallax="${options.parallax}"` : '';
+    return `<img src="${prefix}assets/img/${largest.file}" srcset="${srcset}" sizes="${sizes}" width="${largest.width}" height="${largest.height}" alt="${esc(alt)}" loading="${loading}" decoding="async"${priority}${classes}${parallax}>`;
   };
 }
 
@@ -456,7 +457,7 @@ export function workCard(item, prefix = '', attrs = '') {
       <span class="work-card__brand">${item.name}</span>
       <div class="work-card__row">
         <p class="work-card__desc">${item.short}</p>
-        <span class="work-card__arrow">${icon('arrowUpRight')}</span>
+        <span class="work-card__arrow"><span class="work-card__open">Открыть</span>${icon('arrowUpRight')}</span>
       </div>
     </div>
   </a>`;
